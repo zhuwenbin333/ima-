@@ -7,21 +7,21 @@ body {
 
 
 header{
-	background-color: ;
+	background-color: lightblue;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
 
 body h1{
-	color:  white;
-	font-size: 50px;
+	color:  greenyellow;
+	font-size: 60px;
 }
 
 header img{
 	border-radius: 170px;
 	width: 300px;
-	border: 20px solid white;
+	border: 20px white;
 }
 
 
@@ -40,13 +40,6 @@ main h2{
 
 
 
-p.caption{
-	margin-top: 0;
-	color:  grey;
-	font-style: italic;
-	font-size: 20px;
-}
-
 
 
 footer{
@@ -62,7 +55,7 @@ footer p{
 }
 
 footer a{
-	color: white;
+	color: skyblue;
 }
 
 
